@@ -2,7 +2,7 @@
 
 
 - 🚀 Enthusiast of **technology** and **computer programming**
-- 💻 I'm **FullStack Web Developer** Student
+- 💻 I'm **FullStack Web Development** Student
 - 📖 Currently learning **JavaScript, HTML and CSS**
 
 ## ✔️ Github Stats
