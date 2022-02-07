@@ -7,8 +7,8 @@
 
 ## ✔️ Github Stats
 <a href="https://github.com/joaopedropsilva" style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaopedropsilva&show_icons=true&theme=chartreuse-dark" alt="João's GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedropsilva&layout=compact&theme=chartreuse-dark" alt="Joao´sTop Langs" height="195px"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=joaopedropsilva&show_icons=true&theme=chartreuse-dark" alt="João's GitHub stats" width="400px" height="195px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedropsilva&layout=compact&theme=chartreuse-dark" alt="Joao´s Top Langs" width="400px" height="195px"> 
 </a>
 
 ## 🖥️ Technologies
