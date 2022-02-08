@@ -4,6 +4,7 @@
 - 🚀 Enthusiast of **technology** and **computer programming**
 - 💻 I'm **FullStack Web Development** Student
 - 📖 Currently learning **JavaScript, HTML and CSS**
+- 📗 Coursing **Computer Engineering** at IFSP
 
 ## ✔️ Github Stats
 <a href="https://github.com/joaopedropsilva" style="display: flex; justify-content: center;">
