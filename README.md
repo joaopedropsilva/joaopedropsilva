@@ -2,7 +2,7 @@
 
 - 🚀 Enthusiast of **technology** and **computer programming**
 - 💻 I'm **FullStack Web Development** Student
-- 📖 Currently learning **Python** and **JavaScript**
+- 📖 Currently learning **Typescript**
 - 📗 Coursing **Computer Engineering** at IFSP
 
 ## ✔️ Github Stats
